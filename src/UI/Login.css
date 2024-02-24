@@ -1,0 +1,33 @@
+body{
+    background-color: #fff;
+}
+.loginForm{     
+    position: relative;
+    top: 10rem;
+}
+.Login_input{
+    width:100%;
+    padding: 5px;
+    background-color: transparent;
+    border: 1px solid #ccc;
+    outline: none;
+    border-radius: 5px;
+    background: azure;
+}
+.Submit_Button{
+    width:100%;
+    padding: 6px;
+    outline: none;
+    border: none;
+    border-radius: 5px;
+    background: #2fb8f8;
+    color:white;
+}
+.PicsDiv{
+    text-align: center;
+    padding-bottom: 1rem;
+}
+.LoginPics{
+    width: 10rem;
+    height: 10rem;
+}

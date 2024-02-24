@@ -1,0 +1,29 @@
+.Container2{
+    margin-top: 1rem;
+}
+.Test_card{
+    padding: 1rem;
+}
+.Tes_button{
+   color: rgb(7, 209, 224);
+}
+.title{
+    font-size: small;
+    text-align: center;
+  }
+  Divider{
+    color: black;
+  }
+  .TestEntry_input{
+    padding:8.5px 8px 8px 8px !important;
+    font-size: smaller !important;
+  }
+  .TestEntry_Label{
+     font-size: smaller !important;
+   }
+   .BorderColor {
+    border-color: red; /* Change the border color to red when focused */
+  }
+  .css-1u3bzj6-MuiFormControl-root-MuiTextField-root{
+    width: 100% !important;
+  }

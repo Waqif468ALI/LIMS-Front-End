@@ -1,0 +1,24 @@
+
+.sideBar{
+    box-shadow: 0px 2px 1px -1px rgba(0,0,0,0.2), 0px 1px 1px 0px rgba(0,0,0,0.14), 0px 1px 3px 0px rgba(0,0,0,0.12)!important;
+    z-index: 3 !important;
+    height: 100%;
+}
+.ICON{
+    font-size: 2rem !important;
+    cursor: pointer;
+    color: #7A869A !important;
+}
+.ICON:hover  {
+    color: #2fb8f8 !important;
+}
+.ActiveClass{
+    border-Left:7px #2fb8f8 solid;
+    border-top-Left-radius: 5px;
+    border-bottom-Left-radius: 5px;
+    color: #2fb8f8 !important;
+    background: aliceblue !important;
+}
+.ICONActive{
+    color: #2fb8f8 !important;
+}

@@ -1,0 +1,71 @@
+
+.profileHeader{
+    /* box-shadow: rgba(17, 17, 26, 0.05) 0px 4px 16px, rgba(17, 17, 26, 0.05) 0px 8px 32px !important; */
+    padding: 1rem; 
+    min-height: 80vh;
+    background-color: #FFF;
+    font-family: "-apple-system","BlinkMacSystemFont","Segoe UI","Roboto","Oxygen","Ubuntu","Fira Sans","Droid Sans","Helvetica Neue","sans-serif" !important;
+    /* color: #7A869A !important; */
+    border-right: 1px solid #d9d9db;
+}
+.img{
+    width: 4rem;
+    height: 4rem;
+    border-radius: 3rem;
+}
+.header{
+    gap: 1.5rem;
+}
+.Gap{
+    gap: 40%;
+}
+
+.PlusIcon{
+    cursor: pointer;
+    color: #2fb8f8;
+}
+.TestSearch_Input{
+    padding:8.5px 8px 8px 8px !important;
+    width: 33rem !important ;
+    font-size: smaller !important;
+  }
+.Profile_detail_card{
+        /* padding: 2rem; */
+        /* background: darkgrey; */
+        border: none;
+        padding: 10px;
+        border-radius: 6px;
+}
+.Details_value{
+    font-weight: 600;
+}
+
+.table_Div{
+    /* width: 100%; */
+    margin-top: 1rem;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+
+
+.ProfileBody{
+    padding-left: 0px !important;
+}
+.ProfileBody_HeadBar{
+    background:#FFF !important;
+    padding: 1rem;
+    color: #000;
+}
+.PRT{
+    background:#2fb8f8 !important;
+    color: #fff !important;
+    padding: 4px !important;
+    font-family: "-apple-system","BlinkMacSystemFont","Segoe UI","Roboto","Oxygen","Ubuntu","Fira Sans","Droid Sans","Helvetica Neue","sans-serif" !important;
+   
+}
+.PRT1{
+    padding: 4px !important;
+    font-family: "-apple-system","BlinkMacSystemFont","Segoe UI","Roboto","Oxygen","Ubuntu","Fira Sans","Droid Sans","Helvetica Neue","sans-serif" !important;
+  
+}

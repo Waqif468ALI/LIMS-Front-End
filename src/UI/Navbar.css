@@ -1,0 +1,22 @@
+.css-1o3zdti-MuiTypography-root{
+    color: #000 !important;
+    font-size: 0.8rem !important;
+}
+.css-4p825j-MuiTypography-root {
+    color: black !important;
+    font-size: 0.8rem !important;
+}
+.css-i4bv87-MuiSvgIcon-root{
+    color: black;
+}
+.searchInput{
+    border: none ;
+    outline: none;
+    width: 24rem;
+}
+@media (min-width: 600px) {
+    .css-hyum1k-MuiToolbar-root {
+      min-height: 3rem !important;
+      /* Additional styles for this class at a minimum width of 600px */
+    }
+  }

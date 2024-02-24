@@ -1,0 +1,28 @@
+/* FullScreenSpinner.css */
+
+/* Style for overlaying the spinner */
+.fullscreen_spinner {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    z-index: 9999; /* Ensure it's on top of everything */
+  }
+  
+  /* Style for the overlay */
+  .overlay {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+    opacity: 0.8; 
+  }
+  .text-primary{
+    color: #2fb8f8  !important;
+  }
+  .spinner-border{
+    --bs-spinner-width: 3rem !important;
+    --bs-spinner-height: 3rem !important;
+  }

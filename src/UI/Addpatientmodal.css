@@ -1,0 +1,14 @@
+.AddPatient_input{
+    padding:8.5px 8px 8px 8px !important;
+    width: 17rem !important;
+    font-size: smaller !important;
+    outline: none;
+  }
+  .AddPatient_Label{
+     font-size: smaller !important;
+   }
+   .AddPatient_input_DropDown{
+    padding:5.5px 6px 6px 8px !important;
+    width: 17rem !important;
+    font-size: smaller !important;
+   }

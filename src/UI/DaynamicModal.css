@@ -1,0 +1,23 @@
+
+.Header{
+    background-color:#2fb8f8;
+    color:#fff;
+}
+.modal-dialog {
+    margin-right: inherit;
+    margin-left: auto;
+    margin-top: 6.5rem;
+    width: 50%;
+}
+.modal-content{
+    height: 31rem;
+    box-shadow: rgba(17, 17, 26, 0.05) 0px 4px 16px, rgba(17, 17, 26, 0.05) 0px 8px 32px;
+    border: none !important;
+
+}
+.modal-backdrop.show {
+    opacity: 0 !important;
+}
+.modal-header{
+   padding: .5rem;
+}

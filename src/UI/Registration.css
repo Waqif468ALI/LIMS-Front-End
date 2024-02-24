@@ -1,0 +1,8 @@
+.Registeration_Input{
+    font-size: smaller !important;
+    outline: none;
+}
+.Disabled{
+    background-color: lightgray;
+    border: 2px;
+}

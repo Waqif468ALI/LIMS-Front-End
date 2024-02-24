@@ -1,0 +1,57 @@
+
+.Container2{
+    margin-top: 1rem;
+}
+.TS::-webkit-scrollbar {
+    width: 12px;               /* width of the entire scrollbar */
+  }
+  .TS::-webkit-scrollbar-track {
+    background: rgb(197, 196, 193);        /* color of the tracking area */
+  }
+  .TS::-webkit-scrollbar-thumb {
+    background-color: rgb(109, 109, 131);    /* color of the scroll thumb */
+    border-radius: 20px;       /* roundness of the scroll thumb */
+    border: 3px solid rgb(199, 199, 199);  /* creates padding around scroll thumb */
+  }
+
+  .border{
+    color: black;
+  }
+  .TC1{
+    text-align: center !important;
+    /* padding: 5px !important; */
+    text-align: center !important;
+    font-family: "-apple-system","BlinkMacSystemFont","Segoe UI","Roboto","Oxygen","Ubuntu","Fira Sans","Droid Sans","Helvetica Neue","sans-serif" !important;
+    color: #7A869A !important;
+    font-size: 12px !important;
+    font-weight: 600 !important;
+    line-height: 1.66666667 !important;
+    letter-spacing: 0 !important;
+    text-transform: none !important;
+  }
+  .TC{
+     padding: 5px !important;
+     text-align: center !important;
+     font-family: "-apple-system","BlinkMacSystemFont","Segoe UI","Roboto","Oxygen","Ubuntu","Fira Sans","Droid Sans","Helvetica Neue","sans-serif" !important;
+     color: #7A869A !important;
+     font-size: 12px !important;
+     font-weight: 600 !important;
+     line-height: 1.66666667 !important;
+     letter-spacing: 0 !important;
+     text-transform: none !important;
+  }
+
+  .TestHeader{
+    box-shadow: none !important;
+    border-bottom-left-radius: 0% !important;
+    height: 3rem;
+    padding: 4px;
+    align-items: center;
+    background-color: #fff !important;
+    text-align: end !important;
+  }
+  .Plus_Icon{
+     cursor: pointer;
+  }
+ 
+  
